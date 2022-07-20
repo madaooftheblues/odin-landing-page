@@ -1,6 +1,8 @@
 # odin-landing-page
 
-Image Credits:
+A simple landing page as directed by the Odin Project.
+
+#Image Credits:
 
 [weston m](https://unsplash.com/es/@betteratf8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
